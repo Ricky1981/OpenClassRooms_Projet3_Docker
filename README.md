@@ -16,4 +16,4 @@ Une fois connecté sur la machine virtuelle "vagrant" en SSH, veuillez lancer le
 3. Construire le conteneur à partir du DockerFile : `docker build -t image_perso OpenClassRooms_Projet3_Docker/`
 4. Lancer le conteneur : `docker run -d -p 8080:80 --name Projet03 image_perso`
 5. Vérifier que le conteneur est bien actif : `docker ps`  
-6. Revenir sur sa machine local et tester l'URL suivante : http://192.168.33.10:8080
+6. Revenir sur sa machine local et tester l'URL suivante : http://192.168.33.10:8080 
