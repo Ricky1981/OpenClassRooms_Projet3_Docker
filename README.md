@@ -4,8 +4,8 @@
 
 Avant d'utiliser les fichiers présents sur ce repository, merci de suivre les étapes du repository [Vagrant](https://github.com/Ricky1981/OpenClassRooms_Projet3_Vagrant)
 
-En effet, ce repository est la deuxième partie du Projet et les instructions données dans la suite de ce document ne se feront qu'à travers la machine virtuells "vagrant" via SSH.
-De même, étant donné que cette machine virtuelle nous permets de repartir de zéro et afin de simplifier la documentation, toutes les étapes se feront dans le HOME de vagrant
+En effet, ce repository est la deuxième partie du Projet et les instructions données dans la suite de ce document ne se feront qu'à travers la machine virtuelle "vagrant" via SSH.
+De même, étant donné que cette machine virtuelle nous permet de repartir de zéro, et afin de simplifier la documentation, toutes les étapes se feront dans le HOME de vagrant.
 
 ## Utilisation du Dockerfile
 
